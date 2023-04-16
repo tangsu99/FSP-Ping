@@ -1,0 +1,1 @@
+{"id":"fps-ping","name":"FSP-Ping","version":"${version}","url":"https://github.com/tangsu99/FSP-Ping","authors":["tangsu99"],"dependencies":[],"main":"cn.tangsu99.fpsping.FSP_Ping"}
